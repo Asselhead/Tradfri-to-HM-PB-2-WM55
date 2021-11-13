@@ -28,7 +28,7 @@ Dafür bitte in die Schaltung schauen und die Widerstandswerte den eigenen Vorst
 
 # Schaltung
 
-Die [Schaltung](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Docs/TradfritoHM-PB-2-WM55.pdf) besteht im wesentlichen aus der AskSin++ Beispielschaltung ergänzt durch zwei Taster.
+Die [Schaltung](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Docs/TradfritoHM-PB-2-WM55.pdf) besteht im wesentlichen aus der AskSin++ Beispielschaltung ergänzt durch zwei Taster. In Schaltung gibt es die Möglichkeit bei allen drei Tastern externe Pull-Up Widerstände zu bestücken. Das ist nur eine experimentelle Option und ist im Normalfall überflüssíg, da die internen Pull-Up Widerstände des Atmega im Sketch aktiviert sind.
 
 # Bestückungszeichnung und BOM
 
@@ -43,8 +43,13 @@ Etwas Lötzinn auf die Kontakte und dann mit einer großen Lötspitzen erhitzen.
 
 # Gerberdaten
 
-Die Gerberdaten können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen.
+Die Gerberdaten können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen. Es handelt sich um eine 4 Lagen Leiterplatte.
 
+# Sketch
+
+Als Sketch kommt der HM-PB-2-WM55 Sketch zum Einsatz. Dieser wurde von Jêróme erstellt und befindet sich auch schon in der Arduino Beispiel_AskSinPP
+
+[Sketch](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-PB-2-WM55/HM-PB-2-WM55.ino)
 
 
 
