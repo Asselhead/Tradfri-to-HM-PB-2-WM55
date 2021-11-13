@@ -18,7 +18,7 @@ Die Leiterplatte ist 1mm dick und hat 4 Lagen:
 ![TOP_ISO.png](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Top.png)
 ![BOT.png](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Bot.png)
 
-Auf der Leiterplatte wird ein CC1101 Modul, der ATMEGA328P-AU, ein 8MHz Resonator, zwei Taster auf der Top und einer (Config) auf der Bot Seite:
+Auf der Leiterplatte wird ein CC1101 Modul, der ATMEGA328P-AU, ein 8MHz Resonator, zwei Taster auf der Top und einer (Config) auf der Bot Seite bestückt:
 
 ![Top_Best.jpg](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Top_Best.jpg)
 ![Bot_Best.jpg](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Bot_Best.jpg)
