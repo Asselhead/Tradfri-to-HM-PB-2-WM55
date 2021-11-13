@@ -51,8 +51,29 @@ Als Sketch kommt der HM-PB-2-WM55 Sketch zum Einsatz. Dieser wurde von Jêróme 
 
 [Sketch](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-PB-2-WM55/HM-PB-2-WM55.ino)
 
+Der Sketch kann 1:1 übernommen werden.
 
+# Programmierung
 
+Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3V) aufgespielt werden. Dazu kann man temporär einen 2x3 Pin ISP Stecker auflöten, oder diesen mit ein paar Drähten verbinden. Das gleiche gilt für den 1x6 Pin Stecker/Buchse für das aufspielen des Sketch per USB/Seriell Adapter. Da ich mehrere diese Taster auf Homematic umrüsten möchte, habe ich mir aus Federkontakten (Pogo-Pins) einen Adapter gebaut mit dem ich die Leiterplatten ohne löten programmieren kann.
 
+# Spannungsversorgung
+
+Es empfiehlt sich eine Marken Knopfzelle vom Typ CR2032 zu verwenden. Knopfzellen haben einen sehr hohen Innenwiderstand. Dies führt dazu, dass bei größerer Belastung die Spannung sehr schnell einbricht. Größere Belastung bedeutet hier bereits >5mA. Üblicherweise dürfen Marken Knopfzellen für wenige Sekunden bis Max. 15-30mA belastet werden.
+Wenn die HM-PB-2-WM55 Leiterplatte z.B. Konfigurationsdaten sendet, kann die Stromaufnahme auch für mehr als ein paar Sekunden 30mA überschreiten. Eine kleine Hilfe bringt es, wenn man die Stützkondensatoren für das CC1101 Modul möglichst groß (2x10µF) wählt. Wenn man den Taster nach der Programmierung noch am USB-Seriell Wandler testet und anlernt und ggf. eine Direktverknüpfung herstellt, sollte die Knopfzelle im normalen Betrieb keine Probleme haben.
+Ein normaler Sendevorgang (Einschalten eine Aktors) dauert dann nur noch ca. 663ms, was die Knopfzelle problemlos wegsteckt.
+
+[Sendeimpuls](
+
+# Lizenz
+
+Creative Commons BY-NC-SA
+Give Credit, NonCommercial, ShareAlike
+
+![by-nc-sa.eu.png](https://github.com/Asselhead/Arduino-Pro-Mini-RF/blob/master/Images/by-nc-sa.eu.png)
+
+Creative Commons License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 
