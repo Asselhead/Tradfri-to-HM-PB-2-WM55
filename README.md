@@ -61,12 +61,19 @@ Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3
 
 Es empfiehlt sich eine Marken Knopfzelle vom Typ CR2032 zu verwenden. Knopfzellen haben einen sehr hohen Innenwiderstand. Dies führt dazu, dass bei größerer Belastung die Spannung sehr schnell einbricht. Größere Belastung bedeutet hier bereits >5mA. Üblicherweise dürfen Marken Knopfzellen für wenige Sekunden bis Max. 15-30mA belastet werden.
 Wenn die HM-PB-2-WM55 Leiterplatte z.B. Konfigurationsdaten sendet, kann die Stromaufnahme auch für mehr als ein paar Sekunden 30mA überschreiten. Eine kleine Hilfe bringt es, wenn man die Stützkondensatoren für das CC1101 Modul möglichst groß (2x10µF) wählt. Wenn man den Taster nach der Programmierung noch am USB-Seriell Wandler testet und anlernt und ggf. eine Direktverknüpfung herstellt, sollte die Knopfzelle im normalen Betrieb keine Probleme haben.
-Ein normaler Sendevorgang (Einschalten eine Aktors) dauert dann nur noch ca. 663ms, was die Knopfzelle problemlos wegsteckt.
+Ein normaler Sendevorgang (Einschalten eine Aktors) dauert dann nur noch ca. 663ms, was die Knopfzelle problemlos wegsteckt. 
 
 ![Sendeimpuls](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Power_662ms.png)
 
+Auch das Dimmen geht, weil hier mehrfach kurze Pakete gesendet werden.
+
 Eine andere Option ist die Sendeleistung des CC1101 zu reduzieren. Dazu bitte im Forum nachschauen:
 [Forumseintrag](https://homematic-forum.de/forum/viewtopic.php?f=76&t=70114)
+
+# Fotos
+![Eingebaut](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Eingebaut.jpg)
+![Mit_Silikonmatte](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Mit_Silikonmatte.jpg)
+![Batt_Comp](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Batt_Comp.jpg)
 
 # Lizenz
 
