@@ -51,6 +51,10 @@ Wer möchte kann die Taster von der Ikea Leiterplatte ablöten und weiter verwen
 
 Die [Gerberdaten](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Gerber/Tradfri_to_HM.zip) können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen. Es handelt sich um eine 4 Lagen Leiterplatte.
 
+Wer Spaß mit den Leiterplatten hat, darf mir gerne nen Kaffee spendieren:
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L52JYN0)
+
 # Sketch
 
 Als Sketch kommt der HM-PB-2-WM55 Sketch zum Einsatz. Dieser wurde von Jêróme erstellt und befindet sich auch schon in der Arduino Beispiel_AskSinPP
@@ -80,6 +84,8 @@ Eine andere Option ist die Sendeleistung des CC1101 zu reduzieren. Dazu bitte im
 ![Eingebaut](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Eingebaut.jpg)
 ![Mit_Silikonmatte](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Mit_Silikonmatte.jpg)
 ![Batt_Comp](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Batt_Comp.jpg)
+
+
 
 # Lizenz
 
