@@ -43,7 +43,7 @@ Etwas Lötzinn auf die Kontakte und dann mit einer großen Lötspitzen erhitzen.
 
 # Gerberdaten
 
-Die Gerberdaten können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen. Es handelt sich um eine 4 Lagen Leiterplatte.
+Die [Gerberdaten](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Gerber/Tradfri_to_HM.zip) können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen. Es handelt sich um eine 4 Lagen Leiterplatte.
 
 # Sketch
 
