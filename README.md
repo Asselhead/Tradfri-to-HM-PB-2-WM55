@@ -42,8 +42,8 @@ Für die Bestückung der Leiterplatte müssen auf jeden Fall die Batteriekontakt
 Etwas Lötzinn auf die Kontakte und dann mit einer großen Lötspitzen erhitzen.
 
 Wer möchte kann die Taster von der Ikea Leiterplatte ablöten und weiter verwenden. Wer lieber neue auflöten möchte, wird bei LCSC fündig:
-S1 und S2 (https://lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TS-1187A-B-A-B_C318884.html)
-SW1 https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html
+[S1 und S2](https://lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TS-1187A-B-A-B_C318884.html)
+[SW1 (BOT)](https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html
 
 # Gerberdaten
 
