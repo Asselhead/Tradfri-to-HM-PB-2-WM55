@@ -65,7 +65,7 @@ Der Sketch kann 1:1 übernommen werden.
 
 # Programmierung
 
-Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3V) aufgespielt werden. Dazu kann man temporär einen 2x3 Pin ISP Stecker auflöten, oder diesen mit ein paar Drähten verbinden. Das gleiche gilt für den 1x6 Pin Stecker/Buchse für das aufspielen des Sketch per USB/Seriell Adapter. Da ich mehrere diese Taster auf Homematic umrüsten möchte, habe ich mir aus Federkontakten (Pogo-Pins) einen Adapter gebaut mit dem ich die Leiterplatten ohne löten programmieren kann.
+Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3V) aufgespielt werden. Dazu kann man temporär einen 2x3 Pin ISP Stecker auflöten, oder diesen mit ein paar Drähten verbinden. Das gleiche gilt für den 1x6 Pin Stecker/Buchse für das Aufspielen des Sketch per USB/Seriell Adapter. Da ich mehrere dieser Ikea Taster auf Homematic umrüsten möchte, habe ich mir aus Federkontakten (Pogo-Pins) einen Adapter gebaut mit dem ich die Leiterplatten ohne löten programmieren kann.
 
 # Spannungsversorgung
 
