@@ -41,6 +41,10 @@ Zwei der vier Silikon "Stößel" habe ich von hinten etwas mit einer Rasierkling
 Für die Bestückung der Leiterplatte müssen auf jeden Fall die Batteriekontakte der original Tradfri Leiterplatte abgelötet und wieder verwendet werden. Das stellt kein großes Problem dar.
 Etwas Lötzinn auf die Kontakte und dann mit einer großen Lötspitzen erhitzen.
 
+Wer möchte kann die Taster von der Ikea Leiterplatte ablöten und weiter verwenden. Wer lieber neue auflöten möchte, wird bei LCSC fündig:
+S1 und S2 (https://lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TS-1187A-B-A-B_C318884.html)
+SW1 https://lcsc.com/product-detail/Tactile-Switches_XUNPU-TS-1088-AR02016_C720477.html
+
 # Gerberdaten
 
 Die [Gerberdaten](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Gerber/Tradfri_to_HM.zip) können so direkt nach z.B. JLCPCB hochgeladen werden. Bitte Leiterplattendicke 1mm wählen. Es handelt sich um eine 4 Lagen Leiterplatte.
