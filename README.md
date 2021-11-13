@@ -65,7 +65,8 @@ Der Sketch kann 1:1 übernommen werden.
 
 # Programmierung
 
-Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3V) aufgespielt werden. Dazu kann man temporär einen 2x3 Pin ISP Stecker auflöten, oder diesen mit ein paar Drähten verbinden. Das gleiche gilt für den 1x6 Pin Stecker/Buchse für das Aufspielen des Sketch per USB/Seriell Adapter. Da ich mehrere dieser Ikea Taster auf Homematic umrüsten möchte, habe ich mir aus Federkontakten (Pogo-Pins) einen Adapter gebaut mit dem ich die Leiterplatten ohne löten programmieren kann.
+Für die Programmierung muss zunächst der Ardiuno Pro Mini Bootloader (8MHz/3,3V) aufgespielt werden. Dazu kann man temporär einen 2x3 Pin ISP Stecker auflöten, oder diesen mit ein paar Drähten verbinden. Das gleiche gilt für den 1x6 Pin Stecker/Buchse für das Aufspielen des Sketch per USB/Seriell Adapter. Da ich mehrere dieser Ikea Taster auf Homematic umrüsten möchte, habe ich mir aus Federkontakten (Pogo-Pins) einen Adapter gebaut mit dem ich die Leiterplatten ohne löten programmieren kann. Dazu habe ich einfach die Pogopins in eine Lochraster Leiterplatte gelötet und anschließend einen Rahmen darum gelegt um die Position der Leiterplatte über den Pogo Pins zu fixieren.
+Die [STL](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Docs/Tradfri_Frame_Final.stl) habe ich mal angehängt, falls sich jemand den Rahmen ausdrucken und auf die Programmier-Lochrasterplatte (Epoxy) kleben möchte.
 
 # Spannungsversorgung
 
