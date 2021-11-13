@@ -80,6 +80,10 @@ Auch das Dimmen geht, weil hier mehrfach kurze Pakete gesendet werden.
 Eine andere Option ist die Sendeleistung des CC1101 zu reduzieren. Dazu bitte im Forum nachschauen:
 [Forumseintrag](https://homematic-forum.de/forum/viewtopic.php?f=76&t=70114)
 
+# Antenne
+
+Zur Verlegung der Antenne ist es ratsam einen Gehäusesteg, auf dem die Lpl. aufliegt, mit einer kleinen Kerbe zu versehen (Messer/Dremel). Die Antenne kann dann einfach einmal an der Leiterplattenkontour entlang ins Gehäuse gelegt werden. Man sieht genau, welcher Gehäusesteg gemeint ist. Zum Einbau kann es helfen die Antenne mit einem kleinen Stück Tesa zu fixieren.
+
 # Fotos
 ![Eingebaut](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Eingebaut.jpg)
 ![Mit_Silikonmatte](https://github.com/Asselhead/Tradfri-to-HM-PB-2-WM55/blob/main/Images/Mit_Silikonmatte.jpg)
