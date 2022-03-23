@@ -2,7 +2,7 @@
 Leiterplatte zum Umbau eines Ikea Tradfri Taster/Dimmer auf Homematic/AskSin++ HM-PB-2-WM55
 
 Beim letzten Ikea Besuch bin ich mal wieder an den Tradfri Smart Home Komponenten hängen geblieben.
-Aufgefallen ist mir dabei besonders ein kleiner formschöner AN/AUS Taster für schlappe 6€.
+Aufgefallen ist mir dabei besonders ein kleiner formschöner AN/AUS Taster für schlappe ~~6€~~ 7€ (teurer geworden).
 
 Es handelt sich um die Ikea Artikelnummer 704.085.95
 
